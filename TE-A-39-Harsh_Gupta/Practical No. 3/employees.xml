@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+
+<employees>
+<employee>
+<id>1</id>
+<name>Rahul</name>
+<salary>50000</salary>
+</employee>
+</employees>
